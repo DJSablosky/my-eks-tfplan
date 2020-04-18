@@ -14,6 +14,13 @@ $ export AWS_SECRET_ACCESS_KEY="[SECRET_KEY]"
 $ terraform init
 ```
 
+#### Initialize Terraform for Windows PowerShell
+```
+$ $Env:AWS_ACCESS_KEY_ID="[ACCESS_KEY]"
+$ $Env:AWS_SECRET_ACCESS_KEY="[SECRET_KEY]"
+$ terraform init
+```
+
 ### Validate changes
 
 ```
