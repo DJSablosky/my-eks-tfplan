@@ -1,5 +1,5 @@
-# Amazon EKS Terraform Plan
-Terraform configuration for Kubernetes cluster on AWS
+# Amazon Terraform Plan
+Terraform configuration on AWS
 
 ### Prerequisites
 Terraform v0.12.24
